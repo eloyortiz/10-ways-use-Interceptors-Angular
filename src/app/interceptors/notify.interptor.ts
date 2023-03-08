@@ -11,10 +11,11 @@ import { Observable } from "rxjs";
 import { tap } from "rxjs/operators";
 import { ToastrService } from "ngx-toastr";
 import { paths } from "../const";
+import { Router } from "@angular/router";
 
 @Injectable()
 export class NotifyInterceptor implements HttpInterceptor {
-  constructor(private toastr: ToastrService) {}
+  constructor(private toastr: ToastrService, private router: Router) {}
   intercept(
     req: HttpRequest<any>,
     next: HttpHandler
@@ -27,7 +28,10 @@ export class NotifyInterceptor implements HttpInterceptor {
     return next.handle(req).pipe(
       tap((event: HttpEvent<any>) => {
         if (event instanceof HttpResponse && event.status === 201) {
+          const url = '/convert';
           this.toastr.success("Object created.");
+          this.router.navigate([url]);
+
         }
       })
     );
