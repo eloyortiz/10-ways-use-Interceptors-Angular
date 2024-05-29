@@ -16,7 +16,7 @@
     "@angular/forms": "8.0.3",
     "@angular/common": "8.0.3",
     "@angular/router": "18.0.0",
-    "@angular/compiler": "8.0.3",
+    "@angular/compiler": "18.0.0",
     "@angular/material": "18.0.0",
     "@angular/animations": "8.0.3",
     "@angular/platform-browser": "8.0.3",
