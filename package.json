@@ -20,7 +20,7 @@
     "@angular/material": "18.0.0",
     "@angular/animations": "18.0.0",
     "@angular/platform-browser": "8.0.3",
-    "@angular/platform-browser-dynamic": "8.0.3"
+    "@angular/platform-browser-dynamic": "18.0.1"
   },
   "scripts": {
     "ng": "ng",
