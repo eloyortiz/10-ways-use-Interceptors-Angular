@@ -9,7 +9,7 @@
     "core-js": "3.37.1",
     "zone.js": "0.14.6",
     "hammerjs": "2.0.8",
-    "ngx-toastr": "10.0.4",
+    "ngx-toastr": "19.0.0",
     "@types/node": "20.12.13",
     "@angular/cdk": "18.0.1",
     "@angular/core": "18.0.1",
