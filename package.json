@@ -7,7 +7,7 @@
     "tslib": "2.6.3",
     "lodash": "4.17.21",
     "core-js": "3.37.1",
-    "zone.js": "0.14.6",
+    "zone.js": "0.14.7",
     "hammerjs": "2.0.8",
     "ngx-toastr": "19.0.0",
     "@types/node": "20.14.2",
