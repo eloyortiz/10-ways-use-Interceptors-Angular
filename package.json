@@ -11,7 +11,7 @@
     "hammerjs": "2.0.8",
     "ngx-toastr": "19.0.0",
     "@types/node": "22.10.1",
-    "@angular/cdk": "19.0.1",
+    "@angular/cdk": "19.0.2",
     "@angular/core": "18.2.13",
     "@angular/forms": "19.0.3",
     "@angular/common": "19.0.1",
