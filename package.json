@@ -12,7 +12,7 @@
     "ngx-toastr": "19.0.0",
     "@types/node": "22.15.24",
     "@angular/cdk": "20.0.1",
-    "@angular/core": "19.2.13",
+    "@angular/core": "20.0.0",
     "@angular/forms": "19.2.13",
     "@angular/common": "19.2.13",
     "@angular/router": "20.0.0",
