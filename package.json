@@ -19,7 +19,7 @@
     "@angular/compiler": "20.1.7",
     "@angular/material": "20.1.6",
     "@angular/animations": "20.2.1",
-    "@angular/platform-browser": "20.2.1",
+    "@angular/platform-browser": "20.2.2",
     "@angular/platform-browser-dynamic": "20.2.1"
   },
   "scripts": {
