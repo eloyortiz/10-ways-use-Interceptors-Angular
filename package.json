@@ -17,7 +17,7 @@
     "@angular/common": "20.2.2",
     "@angular/router": "20.2.0",
     "@angular/compiler": "20.2.2",
-    "@angular/material": "20.1.6",
+    "@angular/material": "20.2.1",
     "@angular/animations": "20.2.1",
     "@angular/platform-browser": "20.2.2",
     "@angular/platform-browser-dynamic": "20.2.1"
