@@ -10,7 +10,7 @@
     "zone.js": "0.15.1",
     "hammerjs": "2.0.8",
     "ngx-toastr": "19.1.0",
-    "@types/node": "24.6.2",
+    "@types/node": "24.7.0",
     "@angular/cdk": "20.2.7",
     "@angular/core": "20.3.3",
     "@angular/common": "20.3.3",
