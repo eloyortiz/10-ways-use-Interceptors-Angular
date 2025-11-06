@@ -3,6 +3,7 @@ import { HttpClient } from "@angular/common/http";
 import { LoaderService } from "../services/loader.service";
 
 @Component({
+  standalone: false,
   styleUrls: ["loader.component.css"],
   template: `
     <div>

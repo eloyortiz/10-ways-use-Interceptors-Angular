@@ -7,6 +7,7 @@ interface topList {
 }
 
 @Component({
+  standalone: false,
   selector: "app-root",
   styleUrls: ["app.component.css"],
   templateUrl: "app.component.html"

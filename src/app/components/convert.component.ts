@@ -3,6 +3,7 @@ import { HttpClient } from "@angular/common/http";
 import { Observable } from "rxjs";
 
 @Component({
+  standalone: false,
   template: `
     <div style="display: flex;">
       <div class="flex: 50%">
