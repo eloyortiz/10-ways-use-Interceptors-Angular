@@ -3,6 +3,7 @@ import { HttpClient } from "@angular/common/http";
 import { paths } from "../const";
 
 @Component({
+  standalone: false,
   template: `
     <button mat-raised-button color="primary" (click)="run()">Run</button>
   `

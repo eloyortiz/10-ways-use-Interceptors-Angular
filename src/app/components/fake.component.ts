@@ -4,6 +4,7 @@ import { paths } from "../const";
 import { Observable } from "rxjs";
 
 @Component({
+  standalone: false,
   template: `
     <h3>Response</h3>
     <pre>{{ response | async | json }}</pre>

@@ -41,18 +41,6 @@ const routes: Routes = [
     ProfilerComponent
   ],
   imports: [CommonModule, MatButtonModule, RouterModule.forRoot(routes)],
-  exports: [
-    AuthComponent,
-    CacheComponent,
-    ConvertComponent,
-    ErrorComponent,
-    FakeComponent,
-    HeaderComponent,
-    HttpsComponent,
-    LoaderComponent,
-    NotifyComponent,
-    ProfilerComponent,
-    RouterModule
-  ]
+  exports: [RouterModule]
 })
 export class AppRoutingModule {}
