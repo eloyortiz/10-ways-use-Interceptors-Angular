@@ -24,7 +24,7 @@ This document outlines the strategy for keeping project dependencies up-to-date 
 ### Core Dependencies
 - **RxJS**: ~7.8.2 (reactive programming)
 - **Zone.js**: ~0.15.1 (change detection)
-- **TypeScript**: ~5.6.3
+- **TypeScript**: ~5.9.3
 
 ## Update Strategy
 
@@ -110,7 +110,7 @@ npm audit fix --force
 
 | Angular | TypeScript | RxJS   | Node.js |
 |---------|------------|--------|---------|
-| 20.x    | 5.5-5.6    | 7.4+   | 18.19+  |
+| 20.x    | 5.6-5.9    | 7.4+   | 18.19+  |
 | 19.x    | 5.4-5.5    | 7.4+   | 18.19+  |
 | 18.x    | 5.2-5.4    | 7.4+   | 18.13+  |
 
