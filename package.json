@@ -49,6 +49,6 @@
     "@angular-eslint/eslint-plugin": "~18.4.2",
     "@angular-eslint/eslint-plugin-template": "~20.5.1",
     "@angular-eslint/schematics": "~18.4.2",
-    "@angular-eslint/template-parser": "~18.4.2"
+    "@angular-eslint/template-parser": "~20.6.0"
   }
 }
