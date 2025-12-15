@@ -44,7 +44,7 @@
     "typescript": "~5.9.3",
     "@typescript-eslint/eslint-plugin": "^8.49.0",
     "@typescript-eslint/parser": "^8.48.1",
-    "eslint": "^9.16.0",
+    "eslint": "^9.39.2",
     "@angular-eslint/builder": "~21.1.0",
     "@angular-eslint/eslint-plugin": "~21.0.1",
     "@angular-eslint/eslint-plugin-template": "~21.1.0",
