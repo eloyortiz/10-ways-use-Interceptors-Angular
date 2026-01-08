@@ -31,7 +31,7 @@
     "update-deps-major": "npx npm-check-updates -u"
   },
   "devDependencies": {
-    "@angular/cli": "~21.0.4",
+    "@angular/cli": "~21.0.5",
     "@angular-devkit/build-angular": "~21.0.5",
     "@angular/compiler-cli": "~21.0.6",
     "@types/jasmine": "~5.1.13",
