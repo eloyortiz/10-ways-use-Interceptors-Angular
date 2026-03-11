@@ -43,7 +43,7 @@
     "karma-jasmine-html-reporter": "~2.2.0",
     "typescript": "~5.9.3",
     "@typescript-eslint/eslint-plugin": "^8.56.1",
-    "@typescript-eslint/parser": "^8.56.1",
+    "@typescript-eslint/parser": "^8.57.0",
     "eslint": "^10.0.3",
     "@angular-eslint/builder": "~21.3.0",
     "@angular-eslint/eslint-plugin": "~21.3.0",
