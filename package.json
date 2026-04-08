@@ -34,7 +34,8 @@
     "undici": ">=7.24.4",
     "express-rate-limit": ">=8.2.2",
     "flatted": ">=3.4.0",
-    "socket.io-parser": ">=4.2.6"
+    "socket.io-parser": ">=4.2.6",
+    "vite": ">=7.3.2"
   },
   "devDependencies": {
     "@angular/cli": "~21.2.6",
@@ -47,7 +48,7 @@
     "karma-coverage": "~2.2.1",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.2.0",
-    "typescript": "~6.0.2",
+    "typescript": "~5.9.3",
     "@typescript-eslint/eslint-plugin": "^8.58.1",
     "@typescript-eslint/parser": "^8.58.0",
     "eslint": "^10.2.0",
