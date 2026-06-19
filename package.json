@@ -38,7 +38,7 @@
     "vite": ">=7.3.2"
   },
   "devDependencies": {
-    "@angular/cli": "~22.0.2",
+    "@angular/cli": "~22.0.3",
     "@angular-devkit/build-angular": "~22.0.1",
     "@angular/compiler-cli": "~22.0.2",
     "@types/jasmine": "~6.0.0",
